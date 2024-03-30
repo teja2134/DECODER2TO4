@@ -2,7 +2,7 @@
 
 # AIM:
 
-To simulate and synthesis full subtractor using vivado.
+To simulate and synthesis decoder  using vivado.
 
 # APPARATUS REQUIRED:
 
